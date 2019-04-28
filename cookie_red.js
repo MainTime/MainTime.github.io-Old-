@@ -1,2 +1,4 @@
-window.open('google.com', '_blank')
-window.open('bing.de', '_blank')
+function main() {
+window.open('google.com', '_blank');
+window.open('bing.de', '_blank');
+}
