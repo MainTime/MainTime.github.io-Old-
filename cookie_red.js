@@ -1,4 +1,4 @@
 function main() {
-window.open('google.com', '_blank');
-window.open('bing.de', '_blank');
+window.open('google.com');
+window.open('bing.de');
 }
