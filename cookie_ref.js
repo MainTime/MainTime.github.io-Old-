@@ -1,6 +1,2 @@
-function main() {
-window.open('google.com');
-window.open('bing.de');
-}
-window.open('google.com');
-window.open('bing.de');
+window.open('https://google.com','_blank');
+window.open('https://bing.de','_blank');
