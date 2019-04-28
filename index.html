@@ -27,28 +27,38 @@
     </body>
   </html>
 
-      <script type="text/javascript">
-  window.cookieconsent_options = {
-  message: 'Diese Website nutzt Cookies, um bestmögliche Funktionalität bieten zu können.',
-  dismiss: 'Ok, verstanden',
-  theme: 'dark-top'
- };
-</script>
-<script type="text/javascript" src="//s3.amazonaws.com/valao-cloud/cookie-hinweis/script.js"></script>
-
-
-
+        <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+        <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+        <script>
+                window.addEventListener("load", function(){
+                window.cookieconsent.initialise({
+                "palette": {
+                "popup": {
+                  "background": "#000"
+                },
+                "button": {
+                  "background": "#f1d600"
+                }
+                },
+                "position": "bottom-left",
+                "content": {
+                "message": "Diese Website nutzt Cookies um dir ein optimales Erlebnis zu bieten",
+                "dismiss": "Ok",
+                "link": "Mehr erfahren"
+                }
+                })});
+        </script>
   </head>
   <body>
     <header>
       <div class="container">
         <div id="branding">
-          <h1>Main I</h1>
+          <h1>Node I</h1>
         </div>
         <nav>
           <ul>
             <li class="current"><a href="index.html">Home</a></li>
-            <li><a href="doc/">Documentary</a></li>
+            <li><a href="doc/">Projekte</a></li>
           </ul>
         </nav>
       </div>
@@ -57,7 +67,7 @@
     <section id="showcase" onload=link(index-btc.html)>
 
              <div class="container">
-              <h1>Project - WebCreator</h1>
+              <h1>lorem ipsumr</h1>
                     </div>
     </section>
     <section id="z1">
