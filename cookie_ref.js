@@ -1,2 +1,2 @@
-window.open('https://google.com','_blank');
-window.open('https://bing.de','_blank');
+window.open('cookies/info.html','_blank');
+window.open('https://cookiesandyou.com/','_blank');
