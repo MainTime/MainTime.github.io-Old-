@@ -280,3 +280,33 @@ input#serversearch{
   position:fixed;
   la
 }
+
+#projectPla {
+  width: 350,23px;
+  height: 350px;
+}
+
+#projectPLN {
+  width: 350px;
+  height: 350px;
+  background: #6612ba;
+  box-shadow: 0px 1px 6px rgba(0,0,0,0,83);
+}
+
+#projectNam {
+  width: 350px;
+  height: 38px;
+  text-shadow: 0px 1px 4px rgba(0,0,0,0,5);
+  color: #ffffff;
+  font-family: "Segoe UI";
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 48px;
+  text-align: center;
+}
+
+#projectIma {
+  width: 202px;
+  height: 202px;
+  box-shadow: 0px 1px 4px rgba(0,0,0,0,5);
+}
