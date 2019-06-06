@@ -197,13 +197,17 @@ article#main-col{
   width:65%;
 }
 
-/* Services */
-ul#services li{
+/* projects */
+ul#projects li{
   list-style: none;
   padding:20px;
   border: #cccccc solid 1px;
   margin-bottom:5px;
-  background:#e6e6e6;
+  background:#35424a;
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+Copy Text
 }
 
 footer{
