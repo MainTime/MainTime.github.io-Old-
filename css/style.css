@@ -209,6 +209,17 @@ ul#projects li{
 Copy Text
 }
 
+ul#projects:hover li{
+  list-style: none;
+  padding:20px;
+  margin-bottom:20px;
+  background:#FF00FF;
+  -webkit-box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.75);
+  box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.75);
+Copy Text
+}
+
 footer{
   padding:1px;
   margin-top:1px;
