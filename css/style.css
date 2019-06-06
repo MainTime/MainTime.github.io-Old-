@@ -201,7 +201,7 @@ article#main-col{
 ul#projects li{
   list-style: none;
   padding:20px;
-  margin-bottom:5px;
+  margin-bottom:20px;
   background:#6612BA;
   -webkit-box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.75);
   -moz-box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.75);
