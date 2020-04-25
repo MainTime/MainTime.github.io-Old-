@@ -1,0 +1,5 @@
+Contact: mailto:ytmaintime@gmail.com
+Encryption: https://maintime.github.io/.well-known/encryption.txt
+Preferred-Languages: de, en
+Canonical: https://maintime.github.io/.well-known/security.txt
+Policy: https://maintime.github.io/.well-known/policy.txt
